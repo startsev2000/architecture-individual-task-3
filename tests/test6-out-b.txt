@@ -1,0 +1,2 @@
+incorrect input
+ N must be 1 - 9
